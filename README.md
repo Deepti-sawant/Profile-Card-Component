@@ -4,7 +4,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 Table of contents
 
-- Overview
+- Overview :
 Profile Card Component is a responsive website built using HTML and CSS.
 
 - Screenshot
