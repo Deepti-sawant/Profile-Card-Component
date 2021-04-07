@@ -8,7 +8,7 @@ Table of contents
 Profile Card Component is a responsive website built using HTML and CSS.
 
 - Screenshot
-(.design/screenshort.png)
+![screenshot](https://user-images.githubusercontent.com/55924850/113854836-f3829800-97bc-11eb-9317-d492fe4ab78d.png)
 
 Links
  - Solution URL:https://www.frontendmentor.io/solutions/profile-card-component-using-html-and-css-w1itsu_fN
