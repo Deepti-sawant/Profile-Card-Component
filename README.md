@@ -12,7 +12,7 @@ Profile Card Component is a responsive website built using HTML and CSS.
 
 Links
  - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://deepti-sawant.github.io/Profile-Card-Component/
 
 Built with
 - Semantic HTML5 markup
