@@ -11,7 +11,7 @@ Profile Card Component is a responsive website built using HTML and CSS.
 (.design/screenshort.png)
 
 Links
- - Solution URL: [Add solution URL here](https://your-solution-url.com)
+ - Solution URL:https://www.frontendmentor.io/solutions/profile-card-component-using-html-and-css-w1itsu_fN
 - Live Site URL: https://deepti-sawant.github.io/Profile-Card-Component/
 
 Built with
